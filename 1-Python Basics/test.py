@@ -6,5 +6,5 @@ this is a exmaple of multiline comments
 Welcome to the
 python course
 
-Commit#1
+I am committing this file to the git repository
 '''
